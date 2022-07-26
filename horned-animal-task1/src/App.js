@@ -8,14 +8,11 @@ import Main from './components/main';
 function App() {
   return (
     <div>
-      
-      <Footer/>
-      <Main/>
-      <Header/>
-      <HornedBeast/>
 
-
-
+      <Footer />
+   <Header/>
+      <HornedBeast />
+      <Main />
 
     
     </div>

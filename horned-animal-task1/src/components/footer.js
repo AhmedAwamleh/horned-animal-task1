@@ -1,6 +1,6 @@
 import React from "react";
 class Footer extends React.Component{
-    runder(){
+    render(){
         return(
 <p>
     All right reserved &copy;Ahmed
