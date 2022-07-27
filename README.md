@@ -1,7 +1,7 @@
 # horned-animal-task1
 
 
-Number and name of feature: ________________________________
+Number and name of feature: ______________________________
 
 Estimate of time needed to complete: _____
 
