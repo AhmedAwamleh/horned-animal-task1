@@ -12,4 +12,4 @@ Finish time: _____
 Actual time needed to complete: _____
 
 
-## task 2+4 take from me two days because i was have big problem in my ubuntu so i can't answer that questions
+## task 2+3 take from me two days because i was have big problem in my ubuntu so i can't answer that questions
