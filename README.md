@@ -1,15 +1,5 @@
 # horned-animal-task1
 
 
-Number and name of feature: ______________________________
 
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
-
-
-## task 2+3 take from me two days because i was have big problem in my ubuntu so i can't answer that questions
+## he following untracked working tree files would be overwritten by checkout: horned-animals-1/src/components/main.js please move or remove them before you switch    branches. aborting
