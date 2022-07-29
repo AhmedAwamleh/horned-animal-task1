@@ -14,6 +14,7 @@ class HornedBeast extends React.Component {
     favoriteClick = () => {
 
         this.setState({favorite: this.state.favorite + 1})
+        this.props.displayModal (this.props.data);
     }
 
     render() {
